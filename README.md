@@ -1,2 +1,2 @@
-# py2scratchbridge
+# scratchbridge
 Change cloud variables in python
