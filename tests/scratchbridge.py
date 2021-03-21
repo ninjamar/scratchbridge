@@ -14,4 +14,4 @@ async def send():
       #response = await websocket.recv()
       #print(response)
 
-asyncio.get_event_loop().run_until_complete(send())
+asyncio.run(send())
